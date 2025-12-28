@@ -13,3 +13,7 @@ int main() {
   std::cout << "This is a code snippet in Markdown.";
 }
 ```
+
+- [x] Graduate High School
+- [ ] Get a car
+- [ ] Taste wine
